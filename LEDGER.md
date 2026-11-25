@@ -40,3 +40,10 @@ Candidates considered (all under 160 chars): training-data/rest (chosen), contex
 
 - Built and locally verified. NOT committed, NOT pushed, NOT bundled, NOT checked, NOT submitted (parent does that).
 - No claim code yet (none issued).
+
+## Submission
+
+- Submission: 01a210aa-6359-71e0-9801-f11d44090155
+- Commit: c5adc6d564c5a51ede7fbbfa1cb832154d7625e9
+- Stage: checked
+- Claim code: AF-ZCJH7-6V049-CJJ2J-FPBAF
